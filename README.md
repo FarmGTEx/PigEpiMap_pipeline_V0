@@ -49,7 +49,7 @@ This project systematically catalogs:
 - 📄 **Publication**: *Coming soon in *
 - 🌐 **Data Portal**: [https://pigepimap.farmgtex.org](https://pigepimap.farmgtex.org)
 - 📁 **Download data**: via portal or request (see below)
-- 📫 **Contact us**: (jingjinli1212@foxmail.com>)
+- 📫 **Contact us**: (jingjinli1212@foxmail.com)
 
 ---
 
@@ -60,6 +60,6 @@ waiting for publish
 ## 📬 Contact & Contributions
 
 We welcome feedback and collaboration!  
-Please open an issue or contact us via email: (jingjinli1212@foxmail.com>)
+Please open an issue or contact us via email: (jingjinli1212@foxmail.com)
 
 ---
