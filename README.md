@@ -63,3 +63,4 @@ We welcome feedback and collaboration!
 Please open an issue or contact us via email: (jingjinli1212@foxmail.com)
 
 ---
+![screenshot](PigEpiMap_logo.jpg)
